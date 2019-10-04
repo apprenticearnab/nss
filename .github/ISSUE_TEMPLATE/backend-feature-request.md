@@ -7,11 +7,12 @@ assignees: ''
 
 ---
 ---
-name: adding database with the backend
-about:''
-title:''
-labels: ''
-assignees: ''
+|name                 |about           |title     |labels          |assignees|
+|:--------------------|:--------------:|:--------:|:--------------:|--------:|
+|Managing             |Database        |DATABASE  |file upload,    |         |
+|file upload          |management using|MANAGEMENT|file fetching,  |         |
+|and registration of  |flask sqlalchemy|          |secure username,|         |
+|username and password|                |          |password        |         |
 
 ---
 
